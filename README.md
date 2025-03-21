@@ -1,0 +1,2 @@
+# myVim
+personal Vim customizations
